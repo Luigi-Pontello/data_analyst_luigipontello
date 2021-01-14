@@ -25,7 +25,7 @@ Aqui alguns projetos que realizei, desde através de cursos ou mesmo curiosidade
 * **Introdução ao Machine Learning 2:** https://bit.ly/34Yrlet
 * **Introdução ao Machine Learning 3:** https://bit.ly/2WY9S1d
 * **Consultando CEP via API:** https://bit.ly/3hxay7l
-* **Analisando Dados do Covid19 com matplo:** https://bit.ly/3qchv0u
+* **Analisando Dados do Covid19 com matplot:** https://bit.ly/3qchv0u
 
 ---
 
