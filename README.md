@@ -10,11 +10,12 @@ Minha experiência na área de dados ainda é bem recente, comecei minha dedica�
 Desde então realizo cursos e assisto lives/projetos pela internet, principalmente pelo youtube, onde vou me desenvolvendo e conhecendo mais sobre os temas. Por vir de uma área totalmente de humanas, meus desafios são sempre maiores, mas nada que me desanime do meu sonho de alcançar uma vaga de analytics. 
 
 
-**Background in:** Python básico/intermediário, SQL intermediário, conhecimento com ferramentas de self service BI(Power BI).
+**Background em:** Python básico/intermediário, SQL intermediário, conhecimento com ferramentas de self service BI(Power BI).
 
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/luigi-pontello-0578a0145/)
+* [Medium](https://luigipontello.medium.com/)
 
 
 
