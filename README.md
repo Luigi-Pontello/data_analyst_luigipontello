@@ -32,6 +32,6 @@ Aqui alguns projetos que realizei, desde através de cursos ou mesmo curiosidade
 * **Analisando Dados da Violência no Rio de Janeiro:** https://bit.ly/3sde3Ui
 * **Analisa ndo Dados da Covid 19 no Brasil e no Mundo:** https://bit.ly/39uSJml     
 
-## DashBoards Power BI
-* **Dashboard com dados de NPS:** https://bit.ly/3sRr4Up
+## Dashboards Power BI
+* **Dashboard interativo com dados de NPS:** https://bit.ly/3sRr4Up
 
