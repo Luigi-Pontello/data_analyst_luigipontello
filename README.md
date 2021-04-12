@@ -3,14 +3,14 @@
 </p>
 
 # Luigi Pontello
-<sub>*Analista de Suporte Técnico</sub>
+<sub>*Analista de Business Intelligence</sub>
 
 Minha experiência na área de dados ainda é bem recente, comecei minha dedicação maior ao conteúdo a partir do segundo semestre de 2020, devido a sempre precisar conciliar com uma faculdade de Direito, e o trabalho. 
 
 Desde então realizo cursos e assisto lives/projetos pela internet, principalmente pelo youtube, onde vou me desenvolvendo e conhecendo mais sobre os temas. Por vir de uma área totalmente de humanas, meus desafios são sempre maiores, mas nada que me desanime do meu sonho de alcançar uma vaga de analytics. 
 
 
-**Background em:** Python básico/intermediário, SQL intermediário, conhecimento com ferramentas de self service BI(Power BI).
+**Background em:** Python, SQL, conhecimento com ferramentas de self service BI(Power BI).
 
 **Links:**
 
