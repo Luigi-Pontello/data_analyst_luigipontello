@@ -3,7 +3,7 @@
 </p>
 
 # Luigi Pontello
-<sub>*Analista de Business Intelligence</sub>
+<sub>*Analista de Dados</sub>
 
 Minha experiência na área de dados ainda é bem recente, comecei minha dedicação maior ao conteúdo a partir do segundo semestre de 2020, devido a sempre precisar conciliar com uma faculdade de Direito, e o trabalho. 
 
@@ -22,9 +22,7 @@ Desde então realizo cursos e assisto lives/projetos pela internet, principalmen
 ## Projetos:
 Aqui alguns projetos que realizei, desde através de cursos ou mesmo curiosidades que encontro pela internet:
 
-* **Introdução ao Machine Learning:** https://bit.ly/34ZF6cB
-* **Introdução ao Machine Learning 2:** https://bit.ly/34Yrlet
-* **Introdução ao Machine Learning 3:** https://bit.ly/2WY9S1d
+* **Regressão Linear + Consumo de Cerveja (Machine Learning):** https://bit.ly/3gUfG6V
 * **Consultando CEP via API:** https://bit.ly/3hxay7l
 * **Analisando Dados do Covid19 com matplot:** https://bit.ly/3qchv0u
 * **Analisando Dados do Campeonato Brasileiro de League of Legends:** https://bit.ly/3oa6eMZ
