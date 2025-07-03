@@ -28,7 +28,8 @@ Aqui alguns projetos que realizei, desde através de cursos ou mesmo curiosidade
 * **Analisando Dados do Campeonato Brasileiro de League of Legends:** https://bit.ly/3oa6eMZ
 * **Analisando Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3cWwJU0
 * **Analisando Dados da Violência no Rio de Janeiro:** https://bit.ly/3sde3Ui
-* **Analisa ndo Dados da Covid 19 no Brasil e no Mundo:** https://bit.ly/39uSJml     
+* **Analisa ndo Dados da Covid 19 no Brasil e no Mundo:** https://bit.ly/39uSJml
+* **Corrida de Gráfico de Barras:** https://shorturl.at/ozhvp
 
 ## Dashboards Power BI
 * **Dashboard interativo com dados de NPS:** https://bit.ly/3sRr4Up
